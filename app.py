@@ -10,7 +10,7 @@ from google.genai import types
 from docx import Document
 
 
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-3.6-flash"
 MAX_FILE_SIZE_MB = 20
 
 
